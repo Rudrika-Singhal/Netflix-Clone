@@ -1,4 +1,5 @@
 #NETFLIX CLONE
+
 🎬 Netflix Clone
 A fully responsive, feature-rich Netflix Clone built with [React.js / Next.js / Vue / etc.], mimicking the core functionality and design of Netflix's user interface. This project integrates real-world APIs and showcases modern web development practices, including responsive design, authentication, and video streaming features.
 
